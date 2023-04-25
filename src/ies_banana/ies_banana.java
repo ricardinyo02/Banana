@@ -4,6 +4,7 @@ public class ies_banana {
 
 	public static void main(String[] args) {
 		System.out.println("Hola mundo");
+		//bobo o qué tontito
 
 	}
 
